@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="download_label">Download</string>
+    <string name="download_started">Download Started!</string>
+    <string name="started_download">Download Started</string>
+    <string name="comleted_download">Downloade Completed</string>
+    <string name="download_completed">Download Completed</string>
+</resources>
